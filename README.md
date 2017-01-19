@@ -6,5 +6,5 @@ The designs are provided as-is, which is for the first prototype of the robot.  
 
 VAMOS has been designed to be fabricated primarily with laser cutting.  If a 3d printer is available, then some of the parts could be redesigned and simplified (e.g. leg mounts, carrier assembly).
 
-Please send any questions or comments to espen <dot> knoop <at> gmail <dot> com
+Please send any questions or comments to espen dot knoop at gmail dot com
 
