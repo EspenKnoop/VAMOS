@@ -1,6 +1,6 @@
 # VAMOS
 
-This repository contains the design files for the VAMOS robot, described in "VAM: hypocycloid mechanism for efficient bio-inspired robotic gaits" (link to be added).
+This repository contains the design files for the VAMOS robot, described in "VAM: hypocycloid mechanism for efficient bio-inspired robotic gaits" (http://ieeexplore.ieee.org/document/7829272/).
 
 The designs are provided as-is, which is for the first prototype of the robot.  Some manual fitting and tweaking will be required to build a smoothly-working robot, either to the design files or to the parts.
 
